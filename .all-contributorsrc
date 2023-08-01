@@ -1,0 +1,108 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Binu42",
+      "name": "Binu kumar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/45959932?v=4",
+      "profile": "http://www.binu.live",
+      "contributions": [
+        "infra",
+        "code",
+        "test",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "jaydeepkhatri",
+      "name": "Jaydeep Khatri",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29619945?v=4",
+      "profile": "https://jaydeepkhatri.me/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "zoltanszogyenyi",
+      "name": "Zoltán Szőgyényi",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8052108?v=4",
+      "profile": "https://themesberg.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jackdolgin",
+      "name": "Jack Dolgin",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/29798528?v=4",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "hdquemada",
+      "name": "Hector Quemada",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/44162051?v=4",
+      "profile": "https://github.com/hdquemada",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "pkumars397",
+      "name": "Prashant Kumar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/45540448?v=4",
+      "profile": "https://github.com/pkumars397",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "harshloco",
+      "name": "Harshpreet Singh",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/5271603?v=4",
+      "profile": "https://github.com/harshloco",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "VolailleInc",
+      "name": "Abdul-Razak",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/36109125?v=4",
+      "profile": "http://www.panafsoft.com",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "jmannfeld",
+      "name": "Jordan Mannfeld",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/16351524?v=4",
+      "profile": "https://github.com/jmannfeld",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Lord-Aman",
+      "name": "Aman",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/65647302?v=4",
+      "profile": "https://github.com/Lord-Aman",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "webDevsCom",
+  "projectOwner": "WebDevsCom",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
